@@ -1,0 +1,7 @@
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\DelegatesPractice.exe.config
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\DelegatesPractice.exe
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\DelegatesPractice.pdb
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.exe
+C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.pdb
