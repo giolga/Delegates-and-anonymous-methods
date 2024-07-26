@@ -5,3 +5,10 @@ C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\Delega
 C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.csproj.CoreCompileInputs.cache
 C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.exe
 C:\Users\Mikey\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.pdb
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\bin\Debug\DelegatesPractice.exe.config
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\bin\Debug\DelegatesPractice.exe
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\bin\Debug\DelegatesPractice.pdb
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.csproj.AssemblyReference.cache
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.exe
+C:\Users\Mikey\Desktop\C#\C#_masterclass\DelegatesPractice\DelegatesPractice\obj\Debug\DelegatesPractice.pdb

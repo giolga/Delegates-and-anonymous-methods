@@ -36,6 +36,15 @@ namespace DelegatesPractice
 
             DisplayPeople("All", people, delegate (Person p) { return true; }); //anonymous
 
+            string searchKeyword = "A";
+            DisplayPeople("age > 20 with search keyword:" + searchKeyword, people, p => //Labmda expression
+            {
+                return p.Name.Contains(searchKeyword) && p.Age > 20 ? true : false;
+            });
+
+            //Display people who are exactly 25
+            DisplayPeople("Exactly 25:", people, p => p.Age == 25);
+
             Console.ReadKey();
         }
 
